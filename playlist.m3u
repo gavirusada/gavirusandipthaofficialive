@@ -47,5 +47,5 @@ https://edge3-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="VerbumTV.lk@SD" tvg-logo="https://i.imgur.com/YEKEaB4.png" group-title="Undefined",Verbum TV (480p) [Not 24/7]
 https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="GaviruTV" tvg-logo="https://i.imgur.com/QhX6Z9v.png" group-title="Official Live",Gaviru Sandiptha Official TV
-udp://34.55.130.61:25000
+#EXTINF:-1 tvg-id="GaviruTV" tvg-logo="https://z-p3-scontent.fcmb9-1.fna.fbcdn.net/v/t39.30808-6/475764996_560130303679923_2413093247135010422_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHVVOI7NkIO0QeGuTOfCITuZFAEAImhnW1kUAQAiaGdbdc0Xs_jjlcmQw-x3sUE-TrKyaNlWX2sVvH9PNFIe28Y&_nc_ohc=2QkHtRuQBUsQ7kNvwF0udpi&_nc_oc=AdmRYsqGaEhHzFn5bmPDT8_MAUuPJZiIfp5OXObDXVKi3gs3yXm-tJyTeu6SRAXTk60&_nc_zt=23&_nc_ht=z-p3-scontent.fcmb9-1.fna&_nc_gid=9T4Jzirq5B4Wt66INRgmbA&oh=00_AfmDncHJmx0pkHNDN2_hZurZoD_xOaJED-KYudU-VLO1LA&oe=693AFA88" group-title="Official Live",Gaviru Sandiptha Official TV
+http://34.123.29.120/hls/stream.m3u8
